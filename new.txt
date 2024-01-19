@@ -2,5 +2,5 @@ Name: Tsvetkov Aleksandr
 Age: 35
 Pets number: 4
 Salary: 1000$
-.
+....
 
